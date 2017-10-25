@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">QlakP3Quiz</string>
+    <string name="help">Try yourself in the very fast quiz game. \nAnswer 5 random questions and then: \n-Press the <b>Right Button to check your answers</b>. \n-Press the <b>Left Button to reset game</b> and randomize questions.</string>
+    <string name="notyet">You did not answer all of the questions yet! \n\nTick all of them first and then press this button to check your answers. \n\n<b>Good luck!</b></string>
+
+
+    <string name="question1">Question 1</string>
+    <string name="question2">Question 2</string>
+    <string name="question3">Question 3</string>
+    <string name="question4">Question 4</string>
+    <string name="question5">Question 5</string>
+
+    <string name="rank0"><b>LAMER</b></string>
+    <string name="rank1"><b>ROOKIE</b></string>
+    <string name="rank2"><b>BEGINNER</b></string>
+    <string name="rank3"><b>AVERAGE</b></string>
+    <string name="rank4"><b>MASTER</b></string>
+    <string name="rank5"><b>KNOW-IT-ALL</b></string>
+
+
+    <string name="q1">Who plays Lara Croft in the Tomb Raider series of films?</string>
+    <string name="a1"><b>A.</b> Angelina Jolie</string>
+    <string name="b1"><b>B.</b> Minnie Driver</string>
+    <string name="c1"><b>C.</b> Nell McAndrew</string>
+    <string name="d1"><b>D.</b> Jennifer Aniston</string>
+    <string name="q1answer">A</string>
+
+    <string name="q2">The reactor at the site of the Chernobyl nuclear disaster is now in which country?</string>
+    <string name="a2"><b>A.</b> Slovakia</string>
+    <string name="b2"><b>B.</b> Ukraine</string>
+    <string name="c2"><b>C.</b> Hungary</string>
+    <string name="d2"><b>D.</b> Russia</string>
+    <string name="q2answer">B</string>
+
+    <string name="q3">In which country did Shakespeare s Hamlet live?</string>
+    <string name="a3"><b>A.</b> England</string>
+    <string name="b3"><b>B.</b> Poland</string>
+    <string name="c3"><b>C.</b> Denmark</string>
+    <string name="d3"><b>D.</b> Sweden</string>
+    <string name="q3answer">C</string>
+
+    <string name="q4">Entomology is the science that studies:</string>
+    <string name="a4"><b>A.</b> Behavior of human beings</string>
+    <string name="b4"><b>B.</b> The formation of rocks</string>
+    <string name="c4"><b>C.</b> The origin and history of technical and scientific terms</string>
+    <string name="d4"><b>D.</b> Insects</string>
+    <string name="q4answer">D</string>
+
+    <string name="q5">Galileo was an Italian astronomer who:</string>
+    <string name="a5"><b>A.</b> Developed the telescope</string>
+    <string name="b5"><b>B.</b> Discovered four satellites of Jupiter</string>
+    <string name="c5"><b>C.</b> Discovered that the movement of pendulum produces a regular time measurement</string>
+    <string name="d5"><b>D.</b> All of the above</string>
+    <string name="q5answer">D</string>
+
+    <string name="q6">Which of the following is used in pencils?</string>
+    <string name="a6"><b>A.</b> Graphite</string>
+    <string name="b6"><b>B.</b> Silicon</string>
+    <string name="c6"><b>C.</b> Charcoal</string>
+    <string name="d6"><b>D.</b> Phosphorous</string>
+    <string name="q6answer">A</string>
+
+    <string name="q7">Who invented the wireless remote control?</string>
+    <string name="a7"><b>A.</b> Frank Nesso</string>
+    <string name="b7"><b>B.</b> Alexandre Alexeieff</string>
+    <string name="c7"><b>C.</b> Robert Adler</string>
+    <string name="d7"><b>D.</b> Ami Argand</string>
+    <string name="q7answer">C</string>
+
+    <string name="q8">Who invented the telephone?</string>
+    <string name="a8"><b>A.</b> Alex Gregory Bell</string>
+    <string name="b8"><b>B.</b> Vladimir Barmin</string>
+    <string name="c8"><b>C.</b> Alexander Graham Bell</string>
+    <string name="d8"><b>D.</b> Alexander Grostjef Bell</string>
+    <string name="q8answer">C</string>
+
+    <string name="q9">What are the names of all The Beatles?</string>
+    <string name="a9"><b>A.</b> John Lennon, Paul McWorthly, George Horizont, Ringo Starr</string>
+    <string name="b9"><b>B.</b> Ringo Starr, John Lemon, George Harrison, Paul McCartney</string>
+    <string name="c9"><b>C.</b> George Harrison, John Lennon, Ringo Starr, Paul McCartney</string>
+    <string name="d9"><b>D.</b> Poul McCartney, Ringo Star, John Lennon, George Homingson</string>
+    <string name="q9answer">C</string>
+
+    <string name="q10">The study of sound is called?</string>
+    <string name="a10"><b>A.</b> Acoustics</string>
+    <string name="b10"><b>B.</b> Acoustonomy</string>
+    <string name="c10"><b>C.</b> Soundics</string>
+    <string name="d10"><b>D.</b> Vibronomy</string>
+    <string name="q10answer">A</string>
+
+    <string name="q11">Kinematics is the study of what?</string>
+    <string name="a11"><b>A.</b> Study of motion</string>
+    <string name="b11"><b>B.</b> Study of cinema</string>
+    <string name="c11"><b>C.</b> Study of kinetic electricity</string>
+    <string name="d11"><b>D.</b> Study of Chinese customs</string>
+    <string name="q11answer">A</string>
+
+    <string name="q12">What is the main ingredient used in guacamole?</string>
+    <string name="a12"><b>A.</b> Lime</string>
+    <string name="b12"><b>B.</b> Avocado</string>
+    <string name="c12"><b>C.</b> Guarana</string>
+    <string name="d12"><b>D.</b> Watermelon</string>
+    <string name="q12answer">B</string>
+
+    <string name="q13">What is Tofu made of?</string>
+    <string name="a13"><b>A.</b> Goat Milk</string>
+    <string name="b13"><b>B.</b> Soya beans</string>
+    <string name="c13"><b>C.</b> Mozarella Cheese</string>
+    <string name="d13"><b>D.</b> Mushrooms</string>
+    <string name="q13answer">B</string>
+
+    <string name="q14">Which country does parmesan cheese originate from?</string>
+    <string name="a14"><b>A.</b> Spain</string>
+    <string name="b14"><b>B.</b> Germany</string>
+    <string name="c14"><b>C.</b> France</string>
+    <string name="d14"><b>D.</b> Italy</string>
+    <string name="q14answer">D</string>
+
+    <string name="q15">Which nuts are used to make marzipan?</string>
+    <string name="a15"><b>A.</b> Almonds</string>
+    <string name="b15"><b>B.</b> Peanuts beans</string>
+    <string name="c15"><b>C.</b> Pistachios</string>
+    <string name="d15"><b>D.</b> Cashews</string>
+    <string name="q15answer">A</string>
+
+    <string name="q16">What type of food is Shiitake?</string>
+    <string name="a16"><b>A.</b> Melon</string>
+    <string name="b16"><b>B.</b> Mushroom</string>
+    <string name="c16"><b>C.</b> Broccoli</string>
+    <string name="d16"><b>D.</b> Onion</string>
+    <string name="q16answer">B</string>
+
+    <string name="q17">What is the most common fruit used to produce wine?</string>
+    <string name="a17"><b>A.</b> Grape</string>
+    <string name="b17"><b>B.</b> Apple</string>
+    <string name="c17"><b>C.</b> Banana</string>
+    <string name="d17"><b>D.</b> Tomato</string>
+    <string name="q17answer">A</string>
+
+    <string name="q18">How many square meters are there in a hectare?</string>
+    <string name="a18"><b>A.</b> 1000</string>
+    <string name="b18"><b>B.</b> 5000</string>
+    <string name="c18"><b>C.</b> 1024</string>
+    <string name="d18"><b>D.</b> 10000</string>
+    <string name="q18answer">D</string>
+
+    <string name="q19">Who wrote the story of Pinocchio?</string>
+    <string name="a19"><b>A.</b> Carlo Collodi</string>
+    <string name="b19"><b>B.</b> A. A. Milne</string>
+    <string name="c19"><b>C.</b> J. R. R. Tolkien</string>
+    <string name="d19"><b>A.</b> John Smith</string>
+    <string name="q19answer">A</string>
+
+    <string name="q20">Is hot air lighter or heavier than cold air?</string>
+    <string name="a20"><b>A.</b> The same</string>
+    <string name="b20"><b>B.</b> Depends on the heating source</string>
+    <string name="c20"><b>C.</b> Lighter</string>
+    <string name="d20"><b>D.</b> Heavier</string>
+    <string name="q20answer">C</string>
+
+    <string name="q21">Which guitarist is known as Slowhand?</string>
+    <string name="a21"><b>A.</b> Jimmy Hendrix</string>
+    <string name="b21"><b>B.</b> Eric Clapton</string>
+    <string name="c21"><b>C.</b> Jack Black</string>
+    <string name="d21"><b>D.</b> Slash</string>
+    <string name="q21answer">B</string>
+
+    <string name="q22">In Roman mythology, Neptune is the equivalent to which Greek god?</string>
+    <string name="a22"><b>A.</b> Hades</string>
+    <string name="b22"><b>B.</b> Zeus</string>
+    <string name="c22"><b>C.</b> Poseidon</string>
+    <string name="d22"><b>D.</b> Hephaestus</string>
+    <string name="q22answer">C</string>
+
+    <string name="q23">What make of car was the time-machine in the film Back To The Future?</string>
+    <string name="a23"><b>A.</b> Infiniti</string>
+    <string name="b23"><b>B.</b> Nissan</string>
+    <string name="c23"><b>C.</b> De Lorean</string>
+    <string name="d23"><b>D.</b> McLaren</string>
+    <string name="q23answer">C</string>
+
+    <string name="q24">In which part of the Star Wars saga Obi Wan Kenobi dies?</string>
+    <string name="a24"><b>A.</b> Empire Strikes Back</string>
+    <string name="b24"><b>B.</b> The Phantom Menace</string>
+    <string name="c24"><b>C.</b> Return of the Jedi</string>
+    <string name="d24"><b>D.</b> The New Hope</string>
+    <string name="q24answer">D</string>
+
+    <string name="q25">Name the Greek God of boundaries, travel, communication, trade, language, and writing.</string>
+    <string name="a25"><b>A.</b> Dionysus</string>
+    <string name="b25"><b>B.</b> Ares</string>
+    <string name="c25"><b>C.</b> Hermes</string>
+    <string name="d25"><b>D.</b> Apollo</string>
+    <string name="q25answer">C</string>
+
+    <string name="q26">What is the name of the Greek Goddess of beauty, love, desire, and pleasure?</string>
+    <string name="a26"><b>A.</b> Aphrodite</string>
+    <string name="b26"><b>B.</b> Athena</string>
+    <string name="c26"><b>C.</b> Demeter</string>
+    <string name="d26"><b>D.</b> Hera</string>
+    <string name="q26answer">A</string>
+
+    <string name="q27">In which bay is Alcatraz?</string>
+    <string name="a27"><b>A.</b> San Francisco Bay</string>
+    <string name="b27"><b>B.</b> Guantanamo Bay</string>
+    <string name="c27"><b>C.</b> Monterey Bay</string>
+    <string name="d27"><b>D.</b> Jamaica Bay</string>
+    <string name="q27answer">A</string>
+
+    <string name="q28">Which English monarch was nicknamed the Virgin Queen?</string>
+    <string name="a28"><b>A.</b> Empress Matilda</string>
+    <string name="b28"><b>B.</b> Mary II</string>
+    <string name="c28"><b>C.</b> Elizabeth I</string>
+    <string name="d28"><b>D.</b> Jane</string>
+    <string name="q28answer">C</string>
+
+    <string name="q29">How many feet are there in a yard?</string>
+    <string name="a29"><b>A.</b> 10</string>
+    <string name="b29"><b>B.</b> 5</string>
+    <string name="c29"><b>C.</b> 100</string>
+    <string name="d29"><b>D.</b> 3</string>
+    <string name="q29answer">D</string>
+
+    <string name="q30">How many edges does a cube have?</string>
+    <string name="a30"><b>A.</b> 6</string>
+    <string name="b30"><b>B.</b> 8</string>
+    <string name="c30"><b>C.</b> 12</string>
+    <string name="d30"><b>D.</b> 4</string>
+    <string name="q30answer">C</string>
+
+    <string name="q31">How many squares are there on a chess board?</string>
+    <string name="a31"><b>A.</b> 56</string>
+    <string name="b31"><b>B.</b> 64</string>
+    <string name="c31"><b>C.</b> 12</string>
+    <string name="d31"><b>D.</b> 32</string>
+    <string name="q31answer">B</string>
+
+    <string name="q32">What is the name of Japanese rice wine?</string>
+    <string name="a32"><b>A.</b> Porto</string>
+    <string name="b32"><b>B.</b> Sake</string>
+    <string name="c32"><b>C.</b> Absinthe</string>
+    <string name="d32"><b>D.</b> Seppuku</string>
+    <string name="q32answer">B</string>
+
+    <string name="q33">The mosquito bite is associated with spreading which deadly disease?</string>
+    <string name="a33"><b>A.</b> Cholera</string>
+    <string name="b33"><b>B.</b> Typhus</string>
+    <string name="c33"><b>C.</b> Malaria</string>
+    <string name="d33"><b>D.</b> Rabies</string>
+    <string name="q33answer">C</string>
+
+    <string name="q34">Which is the smallest member of the flute family?</string>
+    <string name="a34"><b>A.</b> Irish Flute</string>
+    <string name="b34"><b>B.</b> Fife</string>
+    <string name="c34"><b>C.</b> Shakuhachi</string>
+    <string name="d34"><b>D.</b> Piccolo</string>
+    <string name="q34answer">D</string>
+
+    <string name="q35">Which superhero has an assistant called Robin?</string>
+    <string name="a35"><b>A.</b> Wonder Woman</string>
+    <string name="b35"><b>B.</b> The Hood</string>
+    <string name="c35"><b>C.</b> Batman</string>
+    <string name="d35"><b>D.</b> Spiderman</string>
+    <string name="q35answer">C</string>
+
+    <string name="q36">How many zeros are there in one hundred thousand?</string>
+    <string name="a36"><b>A.</b> 5</string>
+    <string name="b36"><b>B.</b> 6</string>
+    <string name="c36"><b>C.</b> 1</string>
+    <string name="d36"><b>D.</b> 8</string>
+    <string name="q36answer">A</string>
+
+    <string name="q37">	What are the names of Harry Potters two best friends?</string>
+    <string name="a37"><b>A.</b> Crabbe and Goyle</string>
+    <string name="b37"><b>B.</b> Rupert and Hermine</string>
+    <string name="c37"><b>C.</b> Run and Hermoine</string>
+    <string name="d37"><b>D.</b> Hermione and Ron</string>
+    <string name="q37answer">D</string>
+
+    <string name="q38">Which is the smallest member of the flute family?</string>
+    <string name="a38"><b>A.</b> Irish Flute</string>
+    <string name="b38"><b>B.</b> Fife</string>
+    <string name="c38"><b>C.</b> Shakuhachi</string>
+    <string name="d38"><b>D.</b> Piccolo</string>
+    <string name="q38answer">D</string>
+
+    <string name="q39">As well as cheese and tomato, what two toppings are usually on a Hawaiian Pizza?</string>
+    <string name="a39"><b>A.</b> Chicken and Onion</string>
+    <string name="b39"><b>B.</b> Ham and Pineapple</string>
+    <string name="c39"><b>C.</b> Ham and Onion</string>
+    <string name="d39"><b>D.</b> Pineapple and Salami</string>
+    <string name="q39answer">B</string>
+
+    <string name="q40">How many years are there in one century?</string>
+    <string name="a40"><b>A.</b> 1000</string>
+    <string name="b40"><b>B.</b> 25</string>
+    <string name="c40"><b>C.</b> 100</string>
+    <string name="d40"><b>D.</b> 10</string>
+    <string name="q40answer">C</string>
+
+
+</resources>
